@@ -1,6 +1,6 @@
 # RADLIST  
 
-Calculates atomic and nuclear radiations. <br>
+LEGACY CODE. Calculates atomic and nuclear radiations. <br>
 This is a **legacy code** that has been reported to suffer from various bugs as well as physics limitations.
 
 RADLIST is part of the [ENSDF Analysis and Utility Programs](https://nds.iaea.org/public/ensdf_pgm/)
